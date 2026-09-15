@@ -36,9 +36,3 @@
 
 ### 🗄️ &nbsp;Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 📱 &nbsp;Check out my social media
-
-<a href="https://www.instagram.com/viictoorf_/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
